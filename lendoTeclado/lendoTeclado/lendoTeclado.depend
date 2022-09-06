@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662410810 source:/home/renato/Documentos/GitHub/linguagem_C/lendoTeclado/lendoTeclado/main.c
+	<stdio.h>
+	<stdlib.h>
+

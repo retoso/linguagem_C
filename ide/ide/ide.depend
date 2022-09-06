@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662489372 source:/home/renato/Documentos/GitHub/linguagem_C/ide/ide/main.c
+	<stdio.h>
+	<stdlib.h>
+

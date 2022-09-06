@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="ide/ide/ide.cbp" />
+		<Project filename="compilacao/compilacao/compilacao.cbp" />
+		<Project filename="lendoTeclado/lendoTeclado/lendoTeclado.cbp" />
+		<Project filename="Exercicio3/exercicio3/exercicio3.cbp" />
+		<Project filename="Exercicio4/exercicio4/exercicio4.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
